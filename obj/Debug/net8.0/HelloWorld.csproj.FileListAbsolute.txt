@@ -1,0 +1,28 @@
+C:\Users\Amor III\Desktop\PortfolioProjects\1monthConsole\Helloworld\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+C:\Users\Amor III\Desktop\PortfolioProjects\1monthConsole\Helloworld\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+C:\Users\Amor III\Desktop\PortfolioProjects\1monthConsole\Helloworld\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+C:\Users\Amor III\Desktop\PortfolioProjects\1monthConsole\Helloworld\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+C:\Users\Amor III\Desktop\PortfolioProjects\1monthConsole\Helloworld\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+C:\Users\Amor III\Desktop\PortfolioProjects\1monthConsole\Helloworld\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amor III\Desktop\PortfolioProjects\1monthConsole\Helloworld\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Amor III\Desktop\PortfolioProjects\1monthConsole\Helloworld\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+C:\Users\Amor III\Desktop\PortfolioProjects\1monthConsole\Helloworld\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Amor III\Desktop\PortfolioProjects\1monthConsole\Helloworld\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+C:\Users\Amor III\Desktop\PortfolioProjects\1monthConsole\Helloworld\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+C:\Users\Amor III\Desktop\PortfolioProjects\1monthConsole\Helloworld\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+C:\Users\Amor III\Desktop\PortfolioProjects\1monthConsole\Helloworld\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+C:\Users\Amor III\Desktop\PortfolioProjects\1monthConsole\Helloworld\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
+C:\Users\Setapai\Desktop\PortfolioProjects\1monthConsole\Helloworld\bin\Debug\net8.0\HelloWorld.exe
+C:\Users\Setapai\Desktop\PortfolioProjects\1monthConsole\Helloworld\bin\Debug\net8.0\HelloWorld.deps.json
+C:\Users\Setapai\Desktop\PortfolioProjects\1monthConsole\Helloworld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+C:\Users\Setapai\Desktop\PortfolioProjects\1monthConsole\Helloworld\bin\Debug\net8.0\HelloWorld.dll
+C:\Users\Setapai\Desktop\PortfolioProjects\1monthConsole\Helloworld\bin\Debug\net8.0\HelloWorld.pdb
+C:\Users\Setapai\Desktop\PortfolioProjects\1monthConsole\Helloworld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Setapai\Desktop\PortfolioProjects\1monthConsole\Helloworld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Setapai\Desktop\PortfolioProjects\1monthConsole\Helloworld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+C:\Users\Setapai\Desktop\PortfolioProjects\1monthConsole\Helloworld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Setapai\Desktop\PortfolioProjects\1monthConsole\Helloworld\obj\Debug\net8.0\HelloWorld.dll
+C:\Users\Setapai\Desktop\PortfolioProjects\1monthConsole\Helloworld\obj\Debug\net8.0\refint\HelloWorld.dll
+C:\Users\Setapai\Desktop\PortfolioProjects\1monthConsole\Helloworld\obj\Debug\net8.0\HelloWorld.pdb
+C:\Users\Setapai\Desktop\PortfolioProjects\1monthConsole\Helloworld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+C:\Users\Setapai\Desktop\PortfolioProjects\1monthConsole\Helloworld\obj\Debug\net8.0\ref\HelloWorld.dll
